@@ -1,14 +1,6 @@
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="300">
-</h1><br>
+¡Estoy feliz de hacer mi primera edición!
+17
 
-
-[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](
-https://numfocus.org)
-[![PyPI Downloads](https://img.shields.io/pypi/dm/numpy.svg?label=PyPI%20downloads)](
-https://pypi.org/project/numpy/)
-[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/numpy.svg?label=Conda%20downloads)](
-https://anaconda.org/conda-forge/numpy)
 [![Stack Overflow](https://img.shields.io/badge/stackoverflow-Ask%20questions-blue.svg)](
 https://stackoverflow.com/questions/tagged/numpy)
 [![Nature Paper](https://img.shields.io/badge/DOI-10.1038%2Fs41586--020--2649--2-blue)](
